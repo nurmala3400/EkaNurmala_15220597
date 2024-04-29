@@ -10,7 +10,7 @@ codeigniter</title>
     <div id="wrapper">
         <header>
             <hgroup>
-                <h1>RentalBuku.net</h1>
+                <h1>RentalBukuSyantik.net</h1>
                 <h3>Membuat Template Sederhana dengan 
 CodeIgniter</h3>
             </hgroup>
